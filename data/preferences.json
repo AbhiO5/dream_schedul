@@ -1,0 +1,14 @@
+{
+  "wake": "07:00",
+  "sleep": "22:00",
+  "tasks": {
+    "Study": 4,
+    "Exercise": 2,
+    "Breaks": 2
+  },
+  "priority": {
+    "Study": 5,
+    "Exercise": 3,
+    "Breaks": 2
+  }
+}
